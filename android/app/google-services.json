@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "862934162486",
+    "project_id": "mediwise-a1be0",
+    "storage_bucket": "mediwise-a1be0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862934162486:android:4c3fcab148f61756924c97",
+        "android_client_info": {
+          "package_name": "com.example.mediwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862934162486-cds152h447al7019l63gm8fsvs3ddiud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcIe8R4vWg1wBm7KoWUPmuSXMNXDR2KbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862934162486-cds152h447al7019l63gm8fsvs3ddiud.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "862934162486-ngrk08672l9lee59r3j40e6ite8fsilg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mediwise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

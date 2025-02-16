@@ -1,0 +1,2 @@
+-keep class com.gemalto.jp2.** { *; }
+-keep class com.tom_roush.pdfbox.** { *; }
