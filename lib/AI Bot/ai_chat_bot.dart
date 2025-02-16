@@ -71,7 +71,7 @@ class _FileChatScreenState extends State<FileChatScreen> {
 
     try {
       final Uri apiUrl = Uri.parse(
-        "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyAU2IgOs9oZackY49au2pCC61Wd4c87viE",
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=API_KEY",
       );
 
       final requestPayload = {
