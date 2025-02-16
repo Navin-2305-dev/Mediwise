@@ -17,7 +17,7 @@ class _ChatScreenState extends State<ChatScreen> {
   final TextEditingController _controller = TextEditingController();
   final List<Map<String, String>> messages = [];
   final String apiKey =
-      "AIzaSyAU2IgOs9oZackY49au2pCC61Wd4c87viE"; // Replace with actual API key
+      "API_KEY"; // Replace with actual API key
 
   final stt.SpeechToText _speech = stt.SpeechToText();
   bool _isListening = false;
