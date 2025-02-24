@@ -52,5 +52,5 @@ To Download the apk - [Download APK](https://drive.google.com/file/d/1prRi9SqVVc
 ## 📬 Contact
 For queries, reach out:
 - Email: navinking2305@gmail.com
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/navinb23)
+- LinkedIn: [Navin B](https://www.linkedin.com/in/navinb23)
 
