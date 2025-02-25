@@ -47,7 +47,7 @@ MediWise bridges the healthcare gap through AI-driven insights, a unified patien
    ```
 
 ## APK
-To Download the apk - [Download APK](https://drive.google.com/file/d/1prRi9SqVVcxGoBFGJjXZ8CsYPJ_2eAB1/view?usp=sharing)
+To Download the apk - [Download APK](https://drive.google.com/file/d/1RcDVfhkzxJX4ql6r2UTDOrbj7ZPIBYUZ/view?usp=sharing)
 
 ## 📬 Contact
 For queries, reach out:
